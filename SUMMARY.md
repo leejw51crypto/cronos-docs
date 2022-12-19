@@ -87,6 +87,7 @@
     * [Creating a child DefiWalletCoreActor](cronos-play/getting-started\_unreal/working-with-c++/creating-a-child-defiwalletcoreactor.md)
     * [Querying a contract](cronos-play/getting-started\_unreal/working-with-c++/querying-a-contract.md)
     * [Customizing Network](cronos-play/getting-started\_unreal/working-with-c++/customizing-network.md)
+    * [Dynamic Contact](cronos-play/getting-started\_unreal/working-with-c++/dynamic-contact.md)
   * [Demo](cronos-play/getting-started\_unreal/demo.md)
 * [Cronos Play C++ SDK](cronos-play/getting-started\_cpp.md)
 * [Crypto.com Pay Integration](cronos-play/crypto.com-pay-integration.md)
